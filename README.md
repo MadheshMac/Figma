@@ -31,7 +31,10 @@ Publish the website in the given URL.
 ## DESIGN TOOL:
 Figma
 
+Canvas
+
 ## OUTPUT:
+![Screenshot (46)](https://user-images.githubusercontent.com/119828952/215329676-14f3f7a8-a010-45f0-b405-c42b2d9b7298.png)
 
 
 ## RESULT:
